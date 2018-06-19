@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{082B92F0-C51C-C088-DE24-574E3879A94A}|">
+  <MonoDevelop.Ide.ItemProperties.minijamu__GW PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/jump.cs">
+    <Files>
+      <File FileName="Assets/Scripts/jump.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

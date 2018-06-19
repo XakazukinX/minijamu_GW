@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Tittle.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/minijam_act.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/GameOver.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/credit.unity
+  isLoaded: 0
+  isActive: 0
